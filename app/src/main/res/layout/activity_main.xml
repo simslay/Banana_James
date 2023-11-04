@@ -199,8 +199,8 @@
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintBottom_toTopOf="@+id/cardView3">
                     <ImageView
-                        android:layout_width="200dp"
-                        android:layout_height="200dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:layout_gravity="center"
                         android:src="@drawable/image_maidens_tower"
                         android:layout_margin="10dp"
@@ -212,7 +212,6 @@
                         android:text="Opération Istanbul"
                         android:layout_gravity="bottom|center_horizontal"
                         android:layout_marginTop="20dp"
-                        android:layout_marginBottom="20dp"
                         android:textSize="20sp"
                         android:textStyle="bold" />
                 </androidx.cardview.widget.CardView>
@@ -226,8 +225,8 @@
                     app:layout_constraintTop_toTopOf="parent"
                     app:layout_constraintBottom_toTopOf="@+id/cardView4">
                     <ImageView
-                        android:layout_width="200dp"
-                        android:layout_height="200dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:layout_gravity="center"
                         android:src="@drawable/image_man"
                         android:layout_margin="10dp"
@@ -239,7 +238,6 @@
                         android:text="Sunset"
                         android:layout_gravity="bottom|center_horizontal"
                         android:layout_marginTop="20dp"
-                        android:layout_marginBottom="20dp"
                         android:textSize="20sp"
                         android:textStyle="bold" />
                 </androidx.cardview.widget.CardView>
@@ -254,8 +252,8 @@
                     app:layout_constraintTop_toBottomOf="@+id/cardView1"
                     app:layout_constraintBottom_toBottomOf="parent">
                     <ImageView
-                        android:layout_width="200dp"
-                        android:layout_height="200dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:layout_gravity="center"
                         android:src="@drawable/image_mushrooms"
                         android:layout_margin="10dp"
@@ -267,7 +265,6 @@
                         android:text="Forest"
                         android:layout_gravity="bottom|center_horizontal"
                         android:layout_marginTop="20dp"
-                        android:layout_marginBottom="20dp"
                         android:textSize="20sp"
                         android:textStyle="bold" />
                 </androidx.cardview.widget.CardView>
@@ -281,8 +278,8 @@
                     app:layout_constraintTop_toBottomOf="@+id/cardView2"
                     app:layout_constraintBottom_toBottomOf="parent">
                     <ImageView
-                        android:layout_width="200dp"
-                        android:layout_height="200dp"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
                         android:layout_gravity="center"
                         android:src="@drawable/image_turkey"
                         android:layout_margin="10dp"
@@ -294,7 +291,6 @@
                         android:text="Train"
                         android:layout_gravity="bottom|center_horizontal"
                         android:layout_marginTop="20dp"
-                        android:layout_marginBottom="20dp"
                         android:textSize="20sp"
                         android:textStyle="bold" />
                 </androidx.cardview.widget.CardView>
