@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Banana James</string>
-    <string name="sentence">Un homme qui possède du Don Perignon cuvée 53 n\'est pas complètement mauvais</string>
+    <string name="sentence">Un homme qui possède du Don Pérignon cuvée 53 n\'est pas complètement mauvais</string>
+    <string-array name="mes">
+        <item>Mes jouets</item>
+        <item>Mes bananes</item>
+        <item>Mon boulot</item>
+        <item>Mes vacances</item>
+        <item>Mes hobbies</item>
+    </string-array>
 </resources>
